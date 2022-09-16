@@ -11,8 +11,18 @@ global.APIKeys = {
 	'https://zenzapis.xyz': '1a65f9100b',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `𝗜𝗡 𝗘𝗡𝗚𝗟𝗜𝗦𝗛 : 𝙸 𝚊𝚖 𝚝𝚑𝚎 𝚛𝚎𝚍 𝚍𝚛𝚊𝚐𝚘𝚗. 𝚒 𝚠𝚊𝚜 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝚋𝚢 𝙵𝙰𝚁𝚄𝚀.𝚢𝚘𝚞 𝚌𝚊𝚗 𝚜𝚎𝚕𝚎𝚌𝚝 𝚝𝚑𝚎 𝚋𝚞𝚝𝚝𝚘𝚗 𝚞𝚗𝚍𝚎𝚛 𝚝𝚑𝚎, 𝚝𝚑𝚎𝚛𝚎 𝚊𝚛𝚎 𝟹 𝚋𝚞𝚝𝚝𝚘𝚗𝚜. 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚌𝚑𝚘𝚘𝚜𝚎, 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚝𝚊𝚙 𝚝𝚑𝚎 𝚛𝚎𝚍 𝚍𝚛𝚊𝚐𝚘𝚗 𝚖𝚍 𝚜𝚎𝚌𝚝𝚒𝚘𝚗, 𝚘𝚠𝚗𝚎𝚛, 𝚊𝚗𝚍 𝚖𝚎𝚗𝚞
+
+𝗜𝗡 𝗜𝗡𝗗𝗢𝗡𝗘𝗦𝗜𝗔𝗡 : 𝚜𝚊𝚢𝚊 𝚊𝚍𝚊𝚕𝚊𝚑 𝚗𝚊𝚐𝚊 𝚖𝚎𝚛𝚊𝚑. 𝚜𝚊𝚢𝚊 𝚍𝚒𝚔𝚎𝚖𝚋𝚊𝚗𝚐𝚔𝚊𝚗 𝚘𝚕𝚎𝚑 𝙵𝙰𝚁𝚄𝚀 𝙾𝙵𝙲-𝙳𝙴𝚅. 𝚔𝚊𝚕𝚒𝚊𝚗 𝚋𝚒𝚜𝚊 𝚖𝚎𝚖𝚒𝚕𝚒𝚑 𝚝𝚘𝚖𝚋𝚘𝚕 𝚍𝚒 𝚋𝚊𝚠𝚊𝚑, 𝚊𝚍𝚊 𝟹 𝚝𝚘𝚖𝚋𝚘𝚕 𝚢𝚊𝚗𝚐 𝚔𝚊𝚖𝚞 𝚋𝚒𝚜𝚊 𝚐𝚞𝚗𝚊𝚔𝚊𝚗, 𝚝𝚊𝚙 𝚋𝚊𝚐𝚒𝚊𝚗 𝚘𝚠𝚗𝚎𝚛 𝚊𝚝𝚊𝚞 𝚖𝚎𝚗𝚞.
+
+     ∆         𝙱𝚢 ©𝙵𝙰𝚁𝚄𝚀 𝙾𝙵𝙲-𝙳𝙴𝚅          ∆
+
+              
+
+               J̾O̾I̾N̾ ̾G̾C̾ ̾C̾R̾E̾A̾T̾O̾R̾ ̾T̾O̾D̾
+
+
+              https://chat.whatsapp.com/HhuNmkDxjbV1b062j9DEbj` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = true //auto tying in gc (true to on, false to off)
@@ -30,19 +40,19 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+6285807264974'] // owner number
-global.ownername = "😎FARUQ OFC-DEVV❯❯" // owner name
-global.ytname = "" // yt chanel name
+global.ownername = "👑FARUQ OFC-DEVV❯❯" // owner name
+global.ytname = "FARUQ OFC-Dev" // yt chanel name
 global.socialm = "GitHub: Private" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.ibb.co/0Qh6Bgy/images-1.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
-global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "true" // To remove bad word senders
-global.antispam = "true" // To remove or block spammers
-global.antilink = "true" // To remove group link sharing peoples
+global.callblock = "true" // call block "true" / "false" ("true"  to block callers)
+global.antibad = "false" // To remove bad word senders
+global.antispam = "false" // To remove or block spammers
+global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
